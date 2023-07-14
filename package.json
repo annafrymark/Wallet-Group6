@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "Wallet-Group6",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/migace/parcel-project-template-pl-main",
+  "homepage": "https://annafrymark.github.io/Wallet-Group6/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url parcel-project-template-pl-main"
+    "build": "parcel build src/*.html --public-url Wallet-Group6"
   },
   "repository": {
     "type": "git",
