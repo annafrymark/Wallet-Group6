@@ -5,7 +5,8 @@
   "homepage": "https://annafrymark.github.io/Wallet-Group6/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url Wallet-Group6"
+    "build": "parcel build src/*.html --public-url Wallet-Group6",
+    "start": "npm run dev"
   },
   "repository": {
     "type": "git",
@@ -18,9 +19,8 @@
     "url": "https://github.com/migace/parcel-project-template-pl-main/issues"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.8.3",
+    "@parcel/transformer-sass": "^2.9.3",
     "parcel": "^2.8.3",
     "posthtml-include": "^1.7.4"
-    
   }
 }
