@@ -5,7 +5,7 @@
   "homepage": "https://annafrymark.github.io/Wallet-Group6/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url Wallet-Group6",
+    "build": "parcel build src/*.html --public-url /Wallet-Group6/",
     "start": "npm run dev"
   },
   "repository": {
